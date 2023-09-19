@@ -13,7 +13,7 @@ To install this application simply manuever to the integrated terminal in vscode
 
 GitHub link: https://github.com/carsonjames1125/book-search-engine-carsonjames1125
 
-Deployed Heroku Url: 
+Deployed Heroku Url: https://git.heroku.com/book-search-engine-carsonjames.git
 
 
 ![alt text](./assets/images/image%201.png)
