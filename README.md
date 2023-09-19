@@ -15,21 +15,23 @@ GitHub link:
 
 Deployed Heroku Url: 
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![alt text](./assets/images/image%201.png)
+![alt text](./assets/images/image%202.png)
+![alt text](./assets/images/image%203.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+https://www.apollographql.com/docs/react/get-started/
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+https://react.dev/reference/react
 
-If you followed tutorials, include links to those here as well.
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
+https://developers.google.com/books
+
+https://nodejs.org/en/docs
 
 ## License
 
